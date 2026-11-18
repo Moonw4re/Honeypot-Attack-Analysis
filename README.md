@@ -171,6 +171,46 @@ The findings emphasized the importance of endpoint protection, security monitori
 
 ---
 
+## 10.1 // Proof of Concept
+
+### 01 - Sysmon Event Monitoring
+
+Sysmon was used to monitor system activity and collect security-related events.
+
+<img src="./IMG_7923.png" width="100%"/>
+
+### 02 - Metasploit Attack Simulation
+
+Controlled attack testing was conducted using the Metasploit Framework.
+
+<img src="./IMG_7924.png" width="100%"/>
+
+### 03 - Windows Remote Session
+
+A remote session was demonstrated within the controlled laboratory environment.
+
+<img src="./IMG_7929.png" width="100%"/>
+
+### 04 - Cowrie Installation
+
+Cowrie was installed to establish a simulated SSH honeypot.
+
+<img src="./IMG_7930.png" width="100%"/>
+
+### 05 - Cowrie Honeypot Startup
+
+The honeypot was launched to monitor incoming connections and suspicious activities.
+
+<img src="./IMG_7931.png" width="100%"/>
+
+### 06 - Honeypot Logs Analysis
+
+Honeypot logs were examined to understand attacker behavior and suspicious interactions.
+
+<img src="./IMG_7932.png" width="100%"/>
+
+---
+
 ## 11 // Technical Challenges
 
 <table>
